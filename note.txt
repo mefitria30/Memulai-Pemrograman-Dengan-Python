@@ -1,0 +1,6 @@
+PS D:\Download\Self Learning\E-Learning\Dicoding\Memulai Pemrograman Dengan Python\02. Variable dan Assignment> python main.py
+Hello World!
+PS D:\Download\Self Learning\E-Learning\Dicoding\Memulai Pemrograman Dengan Python\02. Variable dan Assignment> python main.py
+Hello World!
+Hello World!
+PS D:\Download\Self Learning\E-Learning\Dicoding\Memulai Pemrograman Dengan Python\02. Variable dan Assignment>
